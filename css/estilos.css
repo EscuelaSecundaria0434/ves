@@ -189,7 +189,7 @@ main .sobre-nosotros{
 .cards .card{
     background: #096fe3;
     display: flex;
-    width: 45%;
+    width: 20%;
     height: 110px;
     align-items: center;
     justify-content: space-evenly;
